@@ -1,0 +1,6 @@
+{
+  "name": "Housing & Accommodation Management System",
+  "description": "Full-stack property, room, bed assignment, maintenance request management, and multi-role user authorization system with persistent storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
